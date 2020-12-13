@@ -1,5 +1,4 @@
-# Performed Sentiment Analysis
-Data: IMDb Reviews<br>
-Problem: classification<br>
-Model: Logistic Regression<br>
-Flamework: sklearn<br>
+Sentiment analysis (positive or negative) of IMDb Reviews using Logistic Regression
+
+Run command:
+python3 sentimentAnalysis.py 
